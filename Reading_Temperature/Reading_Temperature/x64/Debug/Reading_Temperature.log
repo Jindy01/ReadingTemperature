@@ -1,0 +1,11 @@
+﻿  Source.cpp
+D:\ProgectONc++\Reading_Temperature\Reading_Temperature\Source.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\ProgectONc++\Reading_Temperature\Reading_Temperature\Source.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\ProgectONc++\Reading_Temperature\Reading_Temperature\Source.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\ProgectONc++\Reading_Temperature\Reading_Temperature\Source.cpp(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\ProgectONc++\Reading_Temperature\Reading_Temperature\Source.cpp(118,52): error C2065: 'pclsObj': undeclared identifier
+D:\ProgectONc++\Reading_Temperature\Reading_Temperature\Source.cpp(118,62): error C2065: 'uReturn': undeclared identifier
+D:\ProgectONc++\Reading_Temperature\Reading_Temperature\Source.cpp(120,9): error C2065: 'uReturn': undeclared identifier
+D:\ProgectONc++\Reading_Temperature\Reading_Temperature\Source.cpp(126,10): error C2065: 'pclsObj': undeclared identifier
+D:\ProgectONc++\Reading_Temperature\Reading_Temperature\Source.cpp(127,10): error C2065: 'pclsObj': undeclared identifier
+D:\ProgectONc++\Reading_Temperature\Reading_Temperature\Source.cpp(135,5): error C2065: 'pclsObj': undeclared identifier
